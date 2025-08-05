@@ -5,6 +5,9 @@ We’ll use **PDF ingestion → text chunking → embeddings → semantic search
 
 ---
 
+<img width="1225" height="678" alt="image" src="https://github.com/user-attachments/assets/c210a56c-2123-4899-8e2f-4d95bf83db76" />
+
+
 ## 📚 Table of Contents
 1. [Overview](#overview)  
 2. [Why RAG & Why Local?](#why-rag--why-local)  
